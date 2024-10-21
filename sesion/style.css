@@ -1,0 +1,31 @@
+
+
+table{
+    width: 500px;
+    margin: auto;
+    background-color:rgb(218, 63, 63);
+}
+tr td{
+    padding: 10px;
+    font-size: xx-large;
+    color: blue;
+}
+table button{
+    width: 60px;
+    height:99 px;
+    border-radius: 50px;
+    color: rgb(42, 17, 184);
+    background-color:aliceblue;
+    font-size: xx-large;
+}
+table input{
+    width: 90%;
+    border-radius:12px ;
+    padding: 10px;
+    text-align: right;
+    height: 40px;
+
+}
+#display{
+    font-size: xx-large;
+}
